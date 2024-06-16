@@ -1,4 +1,4 @@
-## Apliacion para Gestion de blioteca y prestamos de Libros
+## Apliacion de inventarios de equipos tecnlogicos
 
 
 # Inventario
