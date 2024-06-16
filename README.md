@@ -3,10 +3,10 @@
 
 # Inventario
 
-## 1. git clone https://github.com/Darkphoenix98/Blioteca_IUD.git
-## 2. cd Biblioteca_IUD
+## 1. git clone https://github.com/Darkphoenix98/Inventario.git
+## 2. cd Inventario
 ## 3. npm install
-## 4. crear ".env" file & set PORT=4001, MONGO_URI vars
+## 4. crear ".env" file & set PORT=5000, MONGO_URI vars
 ## 5. Run project: node server
 
 # Mejoras
